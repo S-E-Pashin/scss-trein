@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* Комментарий в коде закрытый, блочный виден в css*/
+.page__main div {
+  width: 100px;
+  height: 100px; }
+
+.first {
+  background-color: blue; }
+
+.second {
+  background-color: black;
+  color: yellow; }
+
+.third {
+  background-color: lightsteelblue; }
+
+.fourth {
+  background-color: red; }
