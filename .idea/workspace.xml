@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f22615b-6451-4458-bab5-4894d5e58bd9" name="Default Changelist" comment="" />
+    <list default="true" id="0f22615b-6451-4458-bab5-4894d5e58bd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612105904954</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сохраняю изменения для репозитория2.">
+      <created>1612106296319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612106296319</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -45,6 +54,7 @@
     <MESSAGE value="Внесены данные отрабатывавшиеся для применения scss." />
     <MESSAGE value="Изменения. Кооректирую работоспособность WS." />
     <MESSAGE value="Сохраняю изменения для репозитория." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сохраняю изменения для репозитория." />
+    <MESSAGE value="Сохраняю изменения для репозитория2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сохраняю изменения для репозитория2." />
   </component>
 </project>
